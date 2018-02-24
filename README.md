@@ -19,7 +19,7 @@ Digital crate for Openfab rewards
 
 |(Crrr total)	|(Crrr used)	| Crrr	|[DBière](#dbière)	|[D6](#d6)		| [D8](#d8) | [D12](#d12) | [D20](#20) | [Badges](#badges)  |
 |:---:|:---:|:---:|:---:	|:---:|:---:|:---:|:---:|:---:|
-|0	![crrr]	|0	![crrr]	|0	![crrr]	| |	0	|  0   |  0  |  0 | 3  |
+|76	![crrr]	|0	![crrr]	|76	![crrr]	| |	0	|  0   |  0  |  1 | 4 |
 
 >**(x) y**  
 >(x) = nombre de carte jouée (défausse)  
@@ -29,23 +29,33 @@ Digital crate for Openfab rewards
 
 # badges:
 ## Github
+### 138 commits > Level 2  
 <img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="200"></img>    
-![git01]![git01]![git01]![git01]![thundercat]![git01]![git01]![git01]
-### 100 commits > Level 1   
+![git01]![git01]
+ 
+## Animateur
+### 11 journées > Level 2
+![13_2503_yogi_l_ours_photo_w_450](https://user-images.githubusercontent.com/25649502/30963215-f1c8cb86-a44c-11e7-96f8-38cd0321c6b9.jpg)
 
+## Lasersaur [ :star: ]: 
+### 3 tâches, 6 apprentissages > Level 2
+<img src="https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-lasersaur.png"></img>
 
-## Lasersaur [ :star: ]: 0 tâches
-## Inkscape [ :star: ]: 0 tâches
-## fée du logis [ :star: ]: 0 tâches nettoyage
 ## buro274 [ :star: ]
+### 12 mois de semi permanence
+<img src="https://github.com/openfab-lab/pack-openbadge-fablab/blob/master/badge-src/badge-buro274.png"></img> 
 
-## Devis [ :scroll: ]: 
 
 # Amout of:
- 
+
+## Crrr
+
+76 crrr repas hackathon Artisan 2.0 : https://github.com/openfab-lab/artisan2.0/blob/master/Projet/Budget.md
+
 ## carte valeurs
-### Dé 0 : 0
-### Dé 0 : 0
+### Dé 6 : 0
+### Dé 12 : 0
+### Dé 20 : 1
 
 Next Lancédédé: **date**
 
@@ -53,6 +63,7 @@ Next Lancédédé: **date**
 ## Détails cartes valeurs
 ### DBière
 **count:** 0  
+[#176](https://github.com/openfab-lab/openfab/issues/176)
 
 ### D6
 ### D8
@@ -62,3 +73,5 @@ Next Lancédédé: **date**
 <a name="20"/>
 
 ### D20
+[#155](https://github.com/openfab-lab/openfab/issues/155)
+
